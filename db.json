@@ -1,0 +1,19 @@
+{
+    "todos": [
+      {
+        "text": "My First Todo",
+        "completed": true,
+        "id": 1
+      },
+      {
+        "text": "Third todo",
+        "completed": false,
+        "id": 3
+      },
+      {
+        "text": "Second Todo",
+        "completed": false,
+        "id": 4
+      }
+    ]
+  }
